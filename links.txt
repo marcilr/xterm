@@ -1,0 +1,13 @@
+links.txt
+Created Wednesday August 12, 2020
+by Raymond E. Marcil <remarcil@alaska.gov>
+
+
+xterm related links
+
+
+Links
+=====
+How to change the default font size of XTerm?
+xterm*font:     *-fixed-*-*-*-18-*
+https://askubuntu.com/questions/161652/how-to-change-the-default-font-size-of-xterm
